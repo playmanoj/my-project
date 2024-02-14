@@ -1,1 +1,2 @@
 This is fred.txt
+I love flintstones
